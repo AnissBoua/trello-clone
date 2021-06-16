@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+::placeholder{
+  color:ghostwhite;
+  opacity: 0.5;
+}
+
+.taskinput{
+  outline: 0;
+  border: 0;
+  border-bottom: 0.1em solid #198754;
+}
